@@ -3,7 +3,7 @@
 
 
 # MINISHELL
-
+very simple implementation of a shell based on bash.
 ## Authorized functions
 ```
 | ---         | ---              | ---            | ---             | ---          |
